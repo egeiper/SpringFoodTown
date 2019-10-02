@@ -2,3 +2,7 @@ This project contains Spring MVC and  Hibernate using. Project allows order food
 
 Yalçın Ege İper - 2019
 ![](images/foodtownhome.png)
+![](images/foodtownmenu.png)
+![](images/foodtowncart.png)
+![](images/foodtownblog.png)
+![](images/foodtownadminpanel.png)
